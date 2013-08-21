@@ -1,4 +1,6 @@
-FDS_Resources
-=============
+# FDS Resources
 
-Resources for Fire Dynamics Simulator
+This repo contains a number of resoruces for the Fire Dynamics Simulator
+package.
+
+This will be updated in time with the full range of features.
