@@ -13,8 +13,8 @@ individually to provide results for the benchmarking table here.
 
 *Note these are simplistic models, designed solely to get a comparison between
 different CPU's and different operating systems. Note that many other factors
-may affect the performance of a system and **therefore this should only be used
-as a guide** .* I take no responsibility for purchasing decisions based on these
+may affect the performance of a system and* **therefore this should only be used
+as a guide** . I take no responsibility for purchasing decisions based on these
 results - they are purely "an estimate" of the speed you're likely to see.
 
 ## Single Core Benchmark
