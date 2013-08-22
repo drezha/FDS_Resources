@@ -19,5 +19,13 @@ results - they are purely "an estimate" of the speed you're likely to see.
 
 ## Single Core Benchmark
 
+To run the single core benchmarks, you need to download the [bench1.fds](https://raw.github.com/drezha/FDS_Resources/master/FDS%20Benchmarking%20Files/bench1.fds)
+file and run that in FDS using the command:
+
+    fds bench1.fds
+
+When complete, open the bench1.out file and go to the bottom of the file. This
+will then show you the elapsed time taken to run the model. This will test a
+single core on your machine. 
 
 ## Multi Core Benchmark
