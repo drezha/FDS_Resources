@@ -1,3 +1,8 @@
+This table sets out the speed of the tested CPU's with FDS 5.5.3 and the
+[bench1.fds](https://raw.github.com/drezha/FDS_Resources/master/FDS%20Benchmarking%20Files/bench1.fds) file.
+
+The table is sorted with speed in descending order.
+
 |CPU Manufacturer|CPU Name|Elapsed Wall Clock Time (secs)|Speed (Ghz)|Cores|RAM (GB)|OS|32 Bit/64 Bit|Total CPU Time (min)|
 |---|---|---|---|---|---|---|---|---|
 |Intel|Core i7 2700K|144.073|4.9|4|8|Windows 7|64|2.37|
