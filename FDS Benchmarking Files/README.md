@@ -29,3 +29,25 @@ will then show you the elapsed time taken to run the model. This will test a
 single core on your machine. 
 
 ## Multi Core Benchmark
+
+Multi core benchmarking requires the installation of an MPI program. NIST
+recommend [MPICH](http://www.mpich.org/) for Windows and Mac and [LAM](http://www.lam-mpi.org/)
+on Linux.
+
+Once you have the MPI program installed, you need to use the MPI enabled FDS and
+set the program to run.
+
+On linux, this can be achieved using the command:
+
+    mpirun -np X fds5_mpi scale1.fds    
+
+where X is the number of cores the machine has.
+
+On Windows, this can be achieved with:
+
+    mpiexec.exe -n X  -localonly -noprompt fds5_mpi_win64.exe scale1.fds
+
+## Results
+
+Once the models have run, the results are in the bench.out and scale1.out file,
+dependant on the test you ran. The results are at the bottom of the file.
