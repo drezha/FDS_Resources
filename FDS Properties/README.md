@@ -16,8 +16,42 @@ As an FDS user, you can just copy and paste the values into your FDS file.
 
 ### Materials
 
+#### Concrete
+
+Taken from Holman, J.P, 1986. Heat Transfer, Sixth. ed. McGraw-Hill.
+
 |Property      | Value          |
 |--------      |------------    |
 |Specific Heat | 0.88 kJ/Kg     |
 |Conductivity  | 1.37 Wm^-1 K^-1|
 |Density       | 2100 Kgm^-3    |
+
+#### Glass 
+
+Taken from Holman, J.P, 1986. Heat Transfer, Sixth. ed. McGraw-Hill.
+
+|Property      | Value          |
+|--------      |------------    |
+|Specific Heat | 0.84 kJ/Kg     |
+|Conductivity  | 0.78 Wm^-1 K^-1|
+|Density       | 2700 Kgm^-3    |
+
+#### Plaster - Gypsum 
+
+Taken from Holman, J.P, 1986. Heat Transfer, Sixth. ed. McGraw-Hill.
+
+|Property      | Value          |
+|--------      |------------    |
+|Specific Heat | 0.84 kJ/Kg     |
+|Conductivity  | 0.48 Wm^-1 K^-1|
+|Density       | 1440 Kgm^-3    |
+
+#### Wood (Maple/Oak)
+
+Taken from Holman, J.P, 1986. Heat Transfer, Sixth. ed. McGraw-Hill.
+
+|Property      | Value          |
+|--------      |------------    |
+|Specific Heat | 2.4 kJ/Kg      |
+|Conductivity  | 0.166 Wm^-1 K^-1|
+|Density       | 540 Kgm^-3    |
