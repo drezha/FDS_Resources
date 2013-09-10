@@ -8,3 +8,4 @@ The table is sorted with speed in descending order.
 |CPU Manufacturer|CPU Name|Elapsed Wall Clock Time (secs)|Speed (Ghz)|Cores|RAM (GB)|OS|32 Bit/64 Bit|
 |---|---|---|---|---|---|---|---|
 |Intel|Xeon E3-1240 V2|5451.450|3.4|4|32|Windows 7|64|
+|Intel|Core i5 760|32816.278|2.8|2|4|Windows 7|64|
