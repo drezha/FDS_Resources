@@ -19,6 +19,7 @@ The table is sorted with speed in descending order.
 |Intel|Core i7 960|271.164|3.2|4|12|Windows 7|64|4.4|
 |Intel|Xeon W3670|272.073|2.4|6|12|Windows 7|64|4.46|
 |Intel|Core i5 760|280.813|2.8|2|4|Windows 7|64|4.56|
+|Intel|Core i5-4250U|284.606|1.3|2|4|Mac OSX|64|4.69|
 |Intel|Core i7 920|288.174|2.67|4|6|Windows 7|64|4.71|
 |Intel|Core i7 3520M|289.496|2.9|2|8|Windows 7|64|4.69|
 |AMD|FX-8150|301.762|4.3|8|8|Windows 7|64|4.99|
