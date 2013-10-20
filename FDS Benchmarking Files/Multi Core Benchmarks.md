@@ -26,6 +26,7 @@ The table is sorted with speed in descending order.
 |AMD|Phenom II X6 1100T|3912.536|3.3|6|24|Windows 7|64|
 |Intel|Core i5 760|4084.777|2.8|2|4|Windows 7|64|
 |Intel|Core 2 Quad Q6600|4120.588|2.4|4|4|Windows 7|64|
+|Intel|Xeon W3503|4324.162|2.4|2|6|Windows 7|64|
 |Intel|Core 2 Extreme QX6850|4394.431|3|4|8|Vista|64|
 |AMD|Opteron 2346 HE|5003.859|1.8|8|8|Windows Server 2008|64|
 |Intel|Core 2 Duo E8400|6904.028|3|2|4|Windows 7|64|
