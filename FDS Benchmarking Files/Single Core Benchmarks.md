@@ -39,6 +39,7 @@ The table is sorted with speed in descending order.
 |AMD|A8-3820|457.781|2.8|4|8|Windows 8|64|7.56|
 |Intel|Core 2 Quad Q6600|461.278|2.4|4|4|Windows 7|64|7.59|
 |AMD|A6-3500|508.576|2.4|3|8|Linux|64|8.39|
+|Intel|Xeon E31225|537.344|3.1|4|Windows 7|64|8.73|
 |Intel|Core i3 2330M|598.109|2.2|2|6|Windows 7|64|9.56|
 |Intel|P8600|631.634|2.4|2|8|OSX 10.8|64|9.27|
 |AMD|Opteron 2346 HE|972.453|1.8|4|8|Windows Server 2008|64|16.1|
