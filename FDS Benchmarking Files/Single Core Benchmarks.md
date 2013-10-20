@@ -22,6 +22,7 @@ The table is sorted with speed in descending order.
 |Intel|Core i5-4250U|284.606|1.3|2|4|Mac OSX|64|4.69|
 |Intel|Core i7 920|288.174|2.67|4|6|Windows 7|64|4.71|
 |Intel|Core i7 3520M|289.496|2.9|2|8|Windows 7|64|4.69|
+|Intel|Xeon E31225|300.494|3.1|4|Windows 7|64|8.73|
 |AMD|FX-8150|301.762|4.3|8|8|Windows 7|64|4.99|
 |Intel|Core i7 820QM|309.247|1.73|4|8|Windows 7|64|5.05|
 |AMD|Phenom X6 1090T|326.605|4|6|4|Windows 8|64|5.37|
@@ -39,7 +40,6 @@ The table is sorted with speed in descending order.
 |AMD|A8-3820|457.781|2.8|4|8|Windows 8|64|7.56|
 |Intel|Core 2 Quad Q6600|461.278|2.4|4|4|Windows 7|64|7.59|
 |AMD|A6-3500|508.576|2.4|3|8|Linux|64|8.39|
-|Intel|Xeon E31225|537.344|3.1|4|Windows 7|64|8.73|
 |Intel|Core i3 2330M|598.109|2.2|2|6|Windows 7|64|9.56|
 |Intel|P8600|631.634|2.4|2|8|OSX 10.8|64|9.27|
 |AMD|Opteron 2346 HE|972.453|1.8|4|8|Windows Server 2008|64|16.1|
