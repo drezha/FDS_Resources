@@ -30,5 +30,6 @@ The table is sorted with speed in descending order.
 |Intel|Core 2 Extreme QX6850|4394.431|3|4|8|Vista|64|
 |AMD|Opteron 2346 HE|5003.859|1.8|8|8|Windows Server 2008|64|
 |Intel|Core 2 Duo E8400|6904.028|3|2|4|Windows 7|64|
+|AMD|A4-5000|7469.796|1.5|4|4|Windows 8|64|
 |AMD|Z-01|14642.286|1|2|4|Windows 8|64|
 |Intel|i3 2330M|21511.407|2.2|2|6|Windows 7|64|

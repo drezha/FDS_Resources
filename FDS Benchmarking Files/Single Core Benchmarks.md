@@ -42,6 +42,7 @@ The table is sorted with speed in descending order.
 |AMD|A6-3500|508.576|2.4|3|8|Linux|64|8.39|
 |Intel|Core i3 2330M|598.109|2.2|2|6|Windows 7|64|9.56|
 |Intel|P8600|631.634|2.4|2|8|OSX 10.8|64|9.27|
+|AMD|A4-5000|895.147|1.5|4|4|Windows 8|64|14.66|
 |AMD|Opteron 2346 HE|972.453|1.8|4|8|Windows Server 2008|64|16.1|
 |Intel|Pentium M 760|1224.953|2.0|1|1|Linux|32|16.06|
 |AMD|A4-1250|1345.343|1.0|2|4|Windows 8|64|21.84|
