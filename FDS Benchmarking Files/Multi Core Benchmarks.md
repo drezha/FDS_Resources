@@ -13,6 +13,7 @@ The table is sorted with speed in descending order.
 |Intel|Xeon E31225|1941.833|3.1|4|4|Windows 7|64|
 |Intel|Core i7 960|1946.624|3.2|4|12|Windows 7|64|
 |AMD|A8-3870K|2026.523|3.1|4|8|Linux|64|
+|Intel|Core i7 3540M|2085.590|3.0|8|Windows 7|64|
 |Intel|Xeon W3670|2256.572|2.4|6|12|Windows 7|64|
 |Intel|Core i3 2130|2751.681|3.4|2|8|Linux|64|
 |Intel|i5 2500K|2760.618|3.6|4|8|Windows 7|64|
