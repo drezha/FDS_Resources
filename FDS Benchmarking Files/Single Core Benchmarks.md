@@ -8,7 +8,7 @@ The table is sorted with speed in descending order.
 |Intel|Core i7 2700K|144.073|4.9|4|8|Windows 7|64|2.37|
 |Intel|Xeon E3-1240 V2|176.186|3.4|4|32|Windows 7|64|2.87|
 |Intel|Core i5-3470S|193.936|2.9|4|8|Windows 7|64|3.19|
-|Intel|Core i7 3540M|196.445|3.0|4|8|Windows 7|64|3.20| 
+|Intel|Core i7 3540M|196.445|3.0|2|8|Windows 7|64|3.20| 
 |Intel|Core i7 2600K|199.951|3.7|4|8|Windows 7|64|3.27|
 |Intel|Core i5 2500K|199.986|3.6|4|8|Windows 7|64|3.27|
 |Intel|Core i7 3520M|207.083|2.9|2|16|Windows 7|64|3.35|
