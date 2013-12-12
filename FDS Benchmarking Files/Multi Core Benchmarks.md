@@ -8,6 +8,7 @@ The table is sorted with speed in descending order.
 |Amazon|Quadruple XL RAM|1134.74|~2.89|8|68.4|Windows 7|64|
 |Intel|Xeon E3-1240 V2|1321.412|3.4|4|32|Windows 7|64|
 |Intel|Core i5-3470S|1381.113|2.9|4|8|Windows 7|64|
+|Intel|Core i7 4770S|1713.835|3.1|4|8|Windows 7|64|
 |Intel|Xeon X5660|1873.07|2.8|6|24|Windows 7|64|
 |Intel|Core i7 950|1874.722|3.07|4|12|Windows 8|64|
 |Intel|Xeon E31225|1941.833|3.1|4|4|Windows 7|64|

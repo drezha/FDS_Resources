@@ -7,6 +7,7 @@ The table is sorted with speed in descending order.
 
 |CPU Manufacturer|CPU Name|Elapsed Wall Clock Time (secs)|Speed (Ghz)|Cores|RAM (GB)|OS|32 Bit/64 Bit|Total CPU Time (min)|
 |---|---|---|---|---|---|---|---|---|
+|Intel|Core i7 4770S|397.869|3.1|4|8|Windows 7|64|6.46|
 |Intel|Xeon E3-1240 V2|401.811|3.4|4|32|Windows 7|64|6.54|
 |Intel|Xeon X5660|519.089|2.8|6|24|Windows 7|64|8.43|
 |Intel|Xeon E31225|537.344|3.1|4|4|Windows 7|64|8.73|
